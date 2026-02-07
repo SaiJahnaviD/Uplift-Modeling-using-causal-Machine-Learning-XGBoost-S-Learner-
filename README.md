@@ -143,29 +143,6 @@ These visualizations help **communicate actionable insights** to stakeholders.
 
 ---
 
-## How to Run
-
-1. Clone repository:
-
-```bash
-git clone https://github.com/<your-username>/uplift-modeling.git
-cd uplift-modeling
-```
-
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run Jupyter Notebook:
-
-```bash
-jupyter notebook Uplift_Modeling.ipynb
-```
-
----
-
 ## Key Takeaways
 
 * Uplift modeling **goes beyond traditional A/B testing**, allowing precise targeting of customers most likely to respond to treatment.
